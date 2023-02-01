@@ -10,6 +10,7 @@ https://www.google.com/recaptcha/admin/create
 
 
 if you want to change language
+
 ?hl=en
 ?hl=tr
 ?hl=ru
