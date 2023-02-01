@@ -7,13 +7,6 @@
                           </div>
                         </div>
 
-                        <div class="col-md-6">
-                          <div class="form-group">
-                            <input type="text" class="form-control" name="subject" id="konu">
-                          </div>
-                        </div>
-                      </div>
-
                       <div class="row">
                         <div class="col-md-6">
                           <div class="form-group">
@@ -36,10 +29,7 @@
                         </div>
                       </div>
 
-                      <!-- Google Recaptcha on create 
-                        https://www.google.com/recaptcha/admin/create
-                        reCAPTCHA s2
-                      -->
+                 
                       <div class="g-recaptcha" data-sitekey="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"></div><br>
 
                       <button type="submit">Send</button>
