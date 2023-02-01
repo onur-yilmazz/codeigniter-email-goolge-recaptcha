@@ -36,11 +36,6 @@
                         </div>
                       </div>
 
-                      <!-- Google Recaptcha on create 
-                        https://www.google.com/recaptcha/admin/create
-                        reCAPTCHA s2
-                      -->
                       <div class="g-recaptcha" data-sitekey="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"></div><br>
-
                       <button type="submit">Send</button>
                     </form>
