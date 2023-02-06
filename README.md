@@ -2,7 +2,7 @@
 Codeigniter Email Send with google recaptcha
 
 
-Create recaptcha 
+Create recaptcha key firstly
 https://www.google.com/recaptcha/admin/create
 
 
